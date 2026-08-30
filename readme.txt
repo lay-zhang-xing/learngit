@@ -4,3 +4,4 @@ Git is free software.
 Bey
 git hello
 git NB
+add branch info
